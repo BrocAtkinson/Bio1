@@ -1,0 +1,50 @@
+.jumbotron{
+	background-image: url(./images/jumbotronpic.png);
+	background-size: cover;
+    background-repeat: no-repeat;
+    font-family: fantasy;
+    margin-top: -40px;
+   
+} 
+
+
+.container{
+border-top: 5px;
+border-bottom: 5px;
+padding-bottom: 5px;
+background-color: teal;
+font-family: fantasy;
+}
+
+
+.body{
+background-image: url(./images/Oc05jPpnQQSP5w3n6BTgaA.gif);
+background-repeat: no-repeat;
+
+}
+
+.about{
+    background-image: url(./images/Oc05jPpnQQSP5w3n6BTgaA.gif);
+    background-repeat: no-repeat;
+
+}
+
+.profile{
+
+    background-image: url(./images/Oc05jPpnQQSP5w3n6BTgaA.gif);
+    background-repeat: no-repeat;
+
+}
+
+.contact{
+
+    background-image: url(./images/UNADJUSTEDNONRAW_thumb_9b2.png);
+    background-repeat: no-repeat;
+
+}
+footer {
+    clear: both;
+    position: relative;
+    height: -200px;
+    margin-bottom: -200px;
+}
