@@ -3,7 +3,9 @@
 	background-size: cover;
     background-repeat: no-repeat;
     font-family: fantasy;
+    color: maroon;
     margin-top: -40px;
+    font:bold;
    
 } 
 
@@ -25,8 +27,8 @@ background-repeat: no-repeat;
 
 .container_about{
     width: auto;
-    margin-left: 15px;
-    margin-right: 15px;
+    margin-left: 45px;
+    margin-right: 45px;
  /* background-image: url(./images/Oc05jPpnQQSP5w3n6BTgaA.gif); */
     background-repeat: no-repeat;
 
@@ -34,8 +36,8 @@ background-repeat: no-repeat;
 
 .container_profile{
     width: auto;
-    margin-left: 15px;
-    margin-right: 15px;
+    margin-left: 45px;
+    margin-right: 45px;
    /* background-image: url(./images/Oc05jPpnQQSP5w3n6BTgaA.gif);*/
     background-repeat: no-repeat;
 
@@ -43,8 +45,8 @@ background-repeat: no-repeat;
 
 .container_contact{
     width: auto;
-    margin-left: 15px;
-    margin-right: 15px;
+    margin-left: 45px;
+    margin-right: 45px;
    /* background-image: url(./images/UNADJUSTEDNONRAW_thumb_9b2.png);*/
     background-repeat: no-repeat;
 
