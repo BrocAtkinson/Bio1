@@ -1,0 +1,60 @@
+.jumbotron{
+	background-image: url(./images/jumbotronpic.png);
+	background-size: cover;
+    background-repeat: no-repeat;
+    font-family: fantasy;
+    color: maroon;
+    margin-top: -40px;
+    font:bold;
+   
+} 
+
+
+.container{
+border-top: 5px;
+border-bottom: 5px;
+padding-bottom: 5px;
+background-color: teal;
+font-family: fantasy;
+}
+
+
+.body{
+background-image: url(./images/Oc05jPpnQQSP5w3n6BTgaA.gif);
+background-repeat: no-repeat;
+
+}
+
+.container_about{
+    width: auto;
+    margin-left: 45px;
+    margin-right: 45px;
+     background-image: url(./images/IMG_1189.png); */
+    background-repeat: no-repeat;
+
+}
+
+.container_profile{
+    width: auto;
+    margin-left: 45px;
+    margin-right: 45px;
+   background-image: url(./images/IMG_1189.png);*/
+    background-repeat: no-repeat;
+
+}
+
+.container_contact{
+    width: auto;
+    margin-left: 45px;
+    margin-right: 45px;
+   background-image: url(./images/IMG_1189.png);*/
+    background-repeat: no-repeat;
+
+}
+
+footer {
+    clear: both;
+    position: relative;
+    height: -200px;
+    margin-bottom: -200px;
+}
