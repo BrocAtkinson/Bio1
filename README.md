@@ -1,1 +1,1 @@
-# This is the start of my profile page, I would like to add animation and a contact form when updated. 
+Thank you for viewing my readme section of my portfolio. I am just about to complete my full stack development bootcamp.While this was built very basic, we are learning the MERN stack. I have learned I enjoy full stack, rather than just front or backend. I really enjoy problem sovling and using my creative side to write or design.  
