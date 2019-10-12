@@ -3,7 +3,7 @@
     z-index:-101;
   }
   
-  /* #video-background { 
+  .video-background { 
     position: fixed;
       top: 0;
       right: 0;
@@ -12,7 +12,7 @@
       overflow: hidden;
       z-index: -100;
       width:100%;
-  } */
+}
 
 
 .container{
@@ -34,7 +34,8 @@ background-repeat: no-repeat;
     width: auto;
     margin-left: 45px;
     margin-right: 45px;
-     background-image: url(./images/IMG_1189.png); 
+    background-color:;
+     /* background-image: url(./images/IMG_1189.png);  */
     background-repeat: no-repeat;
 
 }
@@ -43,7 +44,7 @@ background-repeat: no-repeat;
     width: auto;
     margin-left: 45px;
     margin-right: 45px;
-   background-image: url(./images/IMG_1189.png); 
+   /* background-image: url(./images/IMG_1189.png);  */
     background-repeat: no-repeat;
 
 }
